@@ -1,4 +1,4 @@
-#refs/heads/WELCOME
+# WELCOME
 
 ## [Try it out](https://ekkiog.mariusgundersen.net/demo)
 
