@@ -1,1 +1,0 @@
-{"top":6,"left":13,"right":16,"bottom":9,"data":{"type":"component","schema":1,"nets":[12,13],"inputs":[],"outputs":[{"x":2,"y":1,"dx":1,"dy":0,"net":13}],"gates":[{"net":12,"inputA":13,"inputB":13},{"net":13,"inputA":12,"inputB":12}],"repo":"","hash":"a898d65eb22c2750276bdd54e40808456e86ab7f","name":"CLOCK-2","version":"a898d65eb22c2750276bdd54e40808456e86ab7f"}}
