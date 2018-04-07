@@ -1,1 +1,1 @@
-{"top":62,"left":56,"right":59,"bottom":65,"data":{"type":"component","schema":1,"nets":[8,9],"inputs":[{"x":0,"y":1,"dx":-1,"dy":0,"net":0,"pointsTo":[{"index":1,"input":"A"},{"index":1,"input":"B"}]}],"outputs":[{"x":2,"y":1,"dx":1,"dy":0,"net":8}],"gates":[{"net":8,"inputA":9,"inputB":9},{"net":9,"inputA":0,"inputB":0}],"repo":"","hash":"d98236c6fc892f76207da273e95820d50ecf779b","name":"DELAY","version":"d98236c6fc892f76207da273e95820d50ecf779b"}}
+{"top":62,"left":49,"right":53,"bottom":65,"data":{"type":"gate","net":2,"inputA":6,"inputB":4}}
