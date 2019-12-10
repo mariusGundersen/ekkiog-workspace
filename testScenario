@@ -1,0 +1,1 @@
+{"probes":[{"x":60,"y":63,"values":"00000 11111 11111 00000","type":"button"},{"x":60,"y":66,"values":"00000 00000 11111 11111","type":"button"},{"x":70,"y":62,"values":"xxxx0 xxxx1 xxxx0 xxxx1","type":"light"},{"x":70,"y":67,"values":"xxxx0 xxxx0 xxxx1 xxxx0","type":"light"}]}
